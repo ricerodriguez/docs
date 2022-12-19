@@ -21,6 +21,7 @@ Before you install Pixelfed, you will need to setup a webserver with the require
 - [OptiPNG](http://optipng.sourceforge.net/), for lossless PNG
 - [PNGQuant](https://pngquant.org/), for lossy PNG
 - [ffmpeg](https://ffmpeg.org/), for generating video thumbnails
+- [oidentd](https://oidentd.janikrabe.com/), for connecting with ident
 
 {{<hint style="warning">}}
 **Shared Hosting**
