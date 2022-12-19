@@ -22,6 +22,7 @@ Before you install Pixelfed, you will need to setup a webserver with the require
 - [PNGQuant](https://pngquant.org/), for lossy PNG
 - [ffmpeg](https://ffmpeg.org/), for generating video thumbnails
 - [oidentd](https://oidentd.janikrabe.com/), for connecting with ident
+- [systemd](https://systemd.io/), for enabling and starting services using `systemctl`
 
 {{<hint style="warning">}}
 **Shared Hosting**
